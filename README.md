@@ -67,36 +67,11 @@ ML model deployment and inference system
 
 </div>
 
----
-
-# 🏆 Achievements & Badges
-
-<details>	
- <summary><b>GitHub Achievements 🏅</b></summary><br>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jiyabhaviksadaria&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-</p>
-
-</details>
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Jiyabhaviksadaria/Jiyabhaviksadaria/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
-# 📈 Profile Views
-
-<div align="center">
-
-![](https://visitcount.itsvg.in/api?id=Jiyabhaviksadaria&icon=0&color=0)
 
 </div>
 
