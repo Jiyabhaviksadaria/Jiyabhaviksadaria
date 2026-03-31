@@ -2,7 +2,7 @@
 </br>
 
 <h1 align="center">Hi 👋, I'm Jiya Sadaria</h1>
-<h3 align="center">Backend Developer | AI Explorer | Building Scalable Systems 🚀</h3>
+<h3 align="center">Backend and Frontend Developer | AI Explorer | Building Scalable Systems 🚀</h3>
 
 ---
 
