@@ -67,6 +67,22 @@ ML model deployment and inference system
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiyabhaviksadaria&theme=tokyonight&hide_border=true"/>
 
 </div>
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30"/> GitHub Analytics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jiyabhaviksadaria&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&border_radius=15&v=1" alt="Jiya's GitHub Stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jiyabhaviksadaria&layout=compact&hide_border=true&theme=tokyonight&border_radius=15&langs_count=8&v=1" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Jiyabhaviksadaria">
+    <img width="60%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Jiyabhaviksadaria&theme=tokyonight&hide_border=true&border_radius=15&v=1" alt="GitHub Streak"/>
+  </a>
+</div>
+
+<br/>
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jiyabhaviksadaria&bg_color=1a1b26&color=ff9e64&line=ff9e64&point=ffffff&area=true&hide_border=true&area_color=ff9e64&v=1" width="100%"/>
