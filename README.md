@@ -57,6 +57,7 @@ ML model deployment and inference system
 
 </div>
 
+
 ---
 
 # 🔥 GitHub Streak
@@ -66,6 +67,11 @@ ML model deployment and inference system
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiyabhaviksadaria&theme=tokyonight&hide_border=true"/>
 
 </div>
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jiyabhaviksadaria&bg_color=1a1b26&color=ff9e64&line=ff9e64&point=ffffff&area=true&hide_border=true&area_color=ff9e64&v=1" width="100%"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 # 🐍 Contribution Snake
 
