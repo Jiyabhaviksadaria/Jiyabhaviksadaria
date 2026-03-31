@@ -1,20 +1,18 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
 </br>
 
+
+
 <h1 align="center">Hi 👋, I'm Jiya Sadaria</h1>
+
 <h3 align="center">Backend and Frontend Developer | AI Explorer | Building Scalable Systems 🚀</h3>
 
----
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-- 🔭 I’m currently working on **Navjeevan AI** — an AI-powered assistant for farmers 🌾  
-- 🌱 I’m exploring **LLMs, RAG pipelines, and FastAPI microservices**  
-- 🤝 I’m looking to collaborate on **backend systems & AI/ML projects**  
-- 💬 Ask me about **Python, APIs, System Design, Machine Learning**  
-- ⚡ Fun fact: *I treat APIs like conversations — clean, fast & meaningful*  
-- 📍 Based in India 🇮🇳  
+</div>
 
----
-
+<br/>
 # 💻 Tech Stack
 
 ## 🐍 Programming Languages
@@ -44,19 +42,6 @@ Backend boilerplate with authentication, logging & scalability
 ### 🧠 SmartPipe
 ML model deployment and inference system  
 👉 https://github.com/Jiyabhaviksadaria  
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jiyabhaviksadaria&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyabhaviksadaria&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 
 ---
 
